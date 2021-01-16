@@ -1,5 +1,8 @@
 # KALEDAR - Autonomous Targeting and Tracking System
 
+### :rocket: Technologies used in the project
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-red?style=for-the-badge"/> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+
 ## :tr: Turkish
 İnsansız araçlar en geniş anlamıyla içinde veya üzerinde görev gerektirmedikçe insan
 unsuru bulundurmayan, uzaktan ya da otonom olarak yönetilebilen ve önceden belirlenmiş
